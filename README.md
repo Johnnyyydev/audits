@@ -4,8 +4,8 @@
 
 [![X (Twitter)](https://img.shields.io/badge/X-@johnnyyydev-000000?style=for-the-badge&logo=x)](https://x.com/johnnyyydev)
 [![GitHub](https://img.shields.io/badge/GitHub-Johnnyyydev-181717?style=for-the-badge&logo=github)](https://github.com/Johnnyyydev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Johnny_Luis-0077B5?style=for-the-badge&logo=linkedin)]
-[![Telegram](https://img.shields.io/badge/Telegram-@johnnyyydev-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/johnnyyydev)(https://www.linkedin.com/in/johnny-luis-59bb58410/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Johnny_Luis-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johnny-luis-59bb58410/)
+[![Telegram](https://img.shields.io/badge/Telegram-@johnnyyydev-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/johnnyyydev)
 
 ![Audits](https://img.shields.io/badge/Audits_Completed-2-brightgreen?style=flat-square)
 ![Critical Bugs](https://img.shields.io/badge/Critical_Bugs-2-red?style=flat-square)
@@ -98,8 +98,8 @@ Looking for a security review of your protocol?
 
 - 📧 Open an issue in this repo
 - 🐦 DM on X: [@johnnyyydev](https://x.com/johnnyyydev)
+- 📨 Telegram: [@johnnyyydev](https://t.me/johnnyyydev)
 - 🔗 LinkedIn: [Johnny Luis](https://www.linkedin.com/in/johnny-luis-59bb58410/)
-- - 📨 Telegram: [@johnnyyydev](https://t.me/johnnyyydev)
 
 > *Available for private audits, bug bounty collaboration, and security consulting.*
 
